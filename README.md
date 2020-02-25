@@ -1,24 +1,6 @@
-# README
+# 質問投稿サイト
+## 概要
+わからないことは質問して解決しよう！質問を投稿したり、回答したりできるアプリです。
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 特徴
+ユーザ登録と同時にユーザはキーワードを決めて指定した部屋の中でアプリを利用できるので、身内だけで楽しめる！
